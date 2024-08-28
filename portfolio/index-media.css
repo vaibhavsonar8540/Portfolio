@@ -1,0 +1,828 @@
+
+@media(min-width:991px) and (max-width:992px)
+{
+    #t-btn
+    {
+        position: relative;
+        top: -290px;
+        left: 870px;
+    }
+    .tgbtn
+    {
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+    }
+    .head-alex
+    {
+        font-size: 45px;
+        position: relative;
+        left: -30px;
+        top: -10px;
+    }
+    #hline
+    {
+        position: relative;
+        left: -335px;
+    }
+    .edu-degree
+    {
+        font-size: 20px;
+    }
+    .edu-year
+    {
+        font-size: 19px;
+    }
+    .exp-addr
+    {
+        font-size: 19px;
+    }
+    .ul-exp li
+    {
+        font-size: 18px;
+    }
+    .circle-sub2::before
+    {
+        content: '';
+        height: 225px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .td-p
+    {
+        font-size: 16px;
+    }
+    .portfolio
+    {
+        height: 100%;
+        position: relative;
+        top: -80px;
+    }
+    
+}
+
+@media(min-width:768px) and (max-width:991px)
+{
+    #t-btn
+    {
+        position: relative;
+        top: -290px;
+        left: 670px;
+    }
+    .tgbtn
+    {
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+    }
+    .head-alex
+    {
+        font-size: 35px;
+        position: relative;
+        left: -30px;
+        top: -10px;
+    }
+    #hline
+    {
+        position: relative;
+        left: -230px;
+    }
+    .abt-image
+    {
+        width: 90%;
+        margin: auto;
+        height: 400px;
+    }
+    .abt-image img
+    {
+        height: 400px;
+    }
+    .circle-sub::before
+    {
+        content: '';
+        height: 287px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+
+    .circle-sub2
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(85, 185, 224);
+        position: relative;
+        top: 295px;
+    }
+    .circle-sub2::before
+    {
+        content: '';
+        height: 230px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .td-p
+    {
+        font-size: 16px;
+    }
+    .portfolio
+    {
+        height: 100%;
+        position: relative;
+        top: -100px;
+    }
+}
+
+
+@media(max-width:768px)
+{
+    #t-btn
+    {
+        position: relative;
+        top: -290px;
+        left: 670px;
+    }
+    .tgbtn
+    {
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+    }
+    .head-alex
+    {
+        font-size: 35px;
+        position: relative;
+        left: -30px;
+        top: -10px;
+    }
+    #hline
+    {
+        position: relative;
+        left: -235px;
+    }
+    .abt-image
+    {
+        width: 90%;
+        margin: auto;
+        height: 400px;
+    }
+    .abt-image img
+    {
+        height: 400px;
+    }
+    .circle-sub::before
+    {
+        content: '';
+        height: 287px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+
+    .circle-sub2
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(85, 185, 224);
+        position: relative;
+        top: 295px;
+    }
+    .circle-sub2::before
+    {
+        content: '';
+        height: 230px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .td-p
+    {
+        font-size: 16px;
+    }
+    .portfolio
+    {
+        height: 100%;
+        position: relative;
+        top: -60px;
+    }
+}
+
+
+@media(max-width:576px)
+{
+    .image-sec
+    {
+        height: 80vh;
+    }
+    #t-btn
+    {
+        position: relative;
+        top: -230px;
+        left: 500px;
+    }
+    .tgbtn
+    {
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+    }
+    .head-alex
+    {
+        font-size: 30px;
+        position: relative;
+        left: -30px;
+        top: -10px;
+    }
+    #hline
+    {
+        position: relative;
+        left: -180px;
+    }
+    .circle1
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(84, 189, 231);
+        position: relative;
+        top: 10px;
+    }
+    .circle1::before
+    {
+        content: '';
+        height: 190px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .circle::before
+    {
+        content: '';
+        height: 180px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .circle2
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(85, 185, 224);
+        position: relative;
+        top: 190px;
+    }
+    .circle2::before
+    {
+        content: '';
+        height: 150px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+
+    .circle-sub::before
+    {
+        content: '';
+        height: 315px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+
+    .circle-sub2
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(85, 185, 224);
+        position: relative;
+        top: 320px;
+    }
+    .circle-sub2::before
+    {
+        content: '';
+        height: 280px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .td-p
+    {
+        font-size: 16px;
+    }
+    .service-main
+    {
+        width: 100%;
+        height: auto;
+        padding: 0px 20px;
+        margin-top: 20px;
+    }
+    .service::after
+    {
+        content: '';
+        width: 10%;
+        display: block;
+        position: relative;
+        top: 10px;
+        border-bottom: 5px solid rgb(30, 170, 226);
+        border-radius: 10px;
+    }
+    .p-contact::after
+    {
+        content: '';
+        width: 10%;
+        display: block;
+        position: relative;
+        top: 10px;
+        left: 5px;
+        border-bottom: 5px solid rgb(30, 170, 226);
+        border-radius: 10px;
+    }
+    .testi::after
+    {
+        content: '';
+        display: block;
+        width: 15%;
+        border-bottom: 5px solid rgb(30, 170, 226);
+        position: relative;
+        top: 10px;
+    }
+    .cp1
+    {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .cp2
+    {
+        font-size: 16px;
+    }
+    .portfolio
+    {
+        margin-top: 80px;
+    }
+}
+
+
+@media(max-width:480px)
+{
+    .left
+    {
+        display: none;
+    }
+    .right
+    {
+        width: 100%;
+        padding: 0px 15px;
+    }
+    #menu
+    {
+        width: 60%;
+    }
+    .image-sec
+    {
+        width: 100%;
+        height: 60vh;
+    }
+    #t-btn
+    {
+        position: relative;
+        top: -170px;
+        left: 400px;
+    }
+    .tgbtn
+    {
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+    }
+    .head-alex
+    {
+        font-size: 25px;
+        position: relative;
+        top: -10px;
+    }
+    #hline
+    {
+        position: relative;
+        left: -130px;
+    }
+    .nav
+    {
+        margin: auto;
+    }
+    .td-p
+    {
+        font-size: 15px;
+    }
+    .circle1
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(84, 189, 231);
+        position: relative;
+        top: 10px;
+    }
+    .circle1::before
+    {
+        content: '';
+        height: 190px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .circle::before
+    {
+        content: '';
+        height: 180px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .circle2
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(85, 185, 224);
+        position: relative;
+        top: 190px;
+    }
+    .circle2::before
+    {
+        content: '';
+        height: 150px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+
+    .circle-sub::before
+    {
+        content: '';
+        height: 338px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+
+    .circle-sub2
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(85, 185, 224);
+        position: relative;
+        top: 345px;
+    }
+    .circle-sub2::before
+    {
+        content: '';
+        height: 280px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+
+    .service-p
+    {
+        font-size: 16px;
+    }
+    .service-main
+    {
+        width: 100%;
+        height: auto;
+        padding: 0px 15px;
+        margin-top: 20px;
+    }
+    .service::after
+    {
+        content: '';
+        width: 10%;
+        display: block;
+        position: relative;
+        top: 10px;
+        border-bottom: 5px solid rgb(30, 170, 226);
+        border-radius: 10px;
+    }
+    .testi::after
+    {
+        content: '';
+        display: block;
+        width: 15%;
+        border-bottom: 5px solid rgb(30, 170, 226);
+        position: relative;
+        top: 10px;
+    }
+    .p-contact::after
+    {
+        content: '';
+        width: 10%;
+        display: block;
+        position: relative;
+        top: 10px;
+        left: 5px;
+        border-bottom: 5px solid rgb(30, 170, 226);
+        border-radius: 10px;
+    }
+    .cp1
+    {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .cp2
+    {
+        font-size: 16px;
+    }
+    .portfolio
+    {
+        margin-top: 120px;
+    }
+    
+}
+
+@media(max-width:320px)
+{      
+    .left
+    {
+        display: none;
+    }
+    .right
+    {
+        width: 100%;
+    }
+    #menu
+    {
+        width: 70%;
+    }
+    .image-sec
+    {
+        width: 100%;
+        height: 60vh;
+    }
+    #t-btn
+    {
+        position: relative;
+        top: -170px;
+        left: 250px;
+    }
+    .tgbtn
+    {
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+    }
+    .head-alex
+    {
+        font-size: 25px;
+        position: relative;
+        top: -10px;
+        left: -37px;
+    }
+    #hline
+    {
+        position: relative;
+        left: -60px;
+
+    }
+    .summary-name
+    {
+        font-size: 18px;
+    }
+    #p-sum
+    {
+        font-size: 14px;
+    }
+    .circle1::before
+    {
+        content: '';
+        height: 230px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .edu-degree
+    {
+        font-size: 18px;
+    }
+    .edu-year
+    {
+        font-size: 16px;
+    }
+    .edu-p
+    {
+        font-size: 14px;
+    }
+    .circle::before
+    {
+        content: '';
+        height: 252px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .circle2
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(85, 185, 224);
+        position: relative;
+        top: 260px;
+    }
+    .circle2::before
+    {
+        content: '';
+        height: 240px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .experience
+    {
+        position: relative;
+        top: 150px;
+    }
+    .exp-p
+    {
+        font-size: 22px;
+        font-weight: bolder;
+    }
+    .experience
+    {
+        width: 100%;
+        height: auto;
+    }
+    .exp-post
+    {
+        font-size: 20px;
+    }
+    .exp-year
+    {
+        font-size: 16px;
+    }
+    .exp-addr
+    {
+        font-size: 15px;
+    }
+    .ul-exp li
+    {
+        font-size: 14px;
+    }
+    .circle-sub::before
+    {
+        content: '';
+        height: 410px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+
+    .circle-sub2
+    {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 2px solid rgb(85, 185, 224);
+        position: relative;
+        top: 415px;
+    }
+    .circle-sub2::before
+    {
+        content: '';
+        height: 350px;
+        display: inline-block;
+        border: 1px solid rgb(85, 185, 224);
+        position: relative;
+        top: 11px;
+        left: 4px;
+    }
+    .portfolio
+    {
+        height: 100%;
+        position: relative;
+        top: 270px;
+    }
+    .port
+    {
+        font-size: 16px;
+    }
+    .nav-link
+    {
+        font-size: 14px;
+        margin-left: 5px;
+    }
+    .service-main
+    {
+        width: 100%;
+        height: auto;
+        padding-top: 300px;
+    }
+    .service::after
+    {
+        content: '';
+        width: 20%;
+        display: block;
+        position: relative;
+        top: 10px;
+        border-bottom: 5px solid rgb(30, 170, 226);
+        border-radius: 10px;
+    }
+    .service-p
+    {
+        font-size: 16px;
+    }
+    .testi::after
+    {
+        content: '';
+        display: block;
+        width: 30%;
+        border-bottom: 5px solid skyblue;
+        position: relative;
+        top: 10px;
+    }
+    .p-testi
+    {
+        font-size: 15px;
+        position: relative;
+        top: 20px;
+    }
+    .td-p
+    {
+        font-size: 12px;
+        text-align: justify;
+    }
+    .p-contact::after
+    {
+        content: '';
+        width: 25%;
+        display: block;
+        position: relative;
+        top: 10px;
+        left: 5px;
+        border-bottom: 5px solid rgb(30, 170, 226);
+        border-radius: 10px;
+    }
+    .con-p
+    {
+        position: relative;
+        top: 10px;
+        font-size: 15px;
+    }
+    .cp1
+    {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .cp2
+    {
+        font-size: 16px;
+    }
+    .f-p
+    {
+        font-size: 14px;
+    }
+}
